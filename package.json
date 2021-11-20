@@ -1,0 +1,25 @@
+{
+  "name": "a-flexbox",
+  "version": "1.0.0",
+  "description": "This is a library with flexbox utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajomuch92/a-flexbox.git"
+  },
+  "keywords": [
+    "flexbox",
+    "css",
+    "flex",
+    "responsive"
+  ],
+  "author": "Aarón Montes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajomuch92/a-flexbox/issues"
+  },
+  "homepage": "https://github.com/ajomuch92/a-flexbox#readme"
+}
