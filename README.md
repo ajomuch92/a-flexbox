@@ -1,6 +1,6 @@
 # A FlexBox
 ## A package with flexbox classes ready to use. 
-This package contains the most common classes used with flexbox.
+This package contains the definition of the most common classes used with flexbox.
 
 # Instalation
 
@@ -19,19 +19,53 @@ import 'a-flexbox.css';
 
 **Classes**
 
-|  Name | Description   |
+|  Class | Description   |
 | ------------ | ------------ |
-| inverse  | Boolean to indicate when button is dark |
-| color  | String to set button color. Values allowed are primary, secondary or tertiary |
-|  size |   String to indicate the button size. Small and large are allowed values |
-|  hoverEffect |   Boolean to indicate a little effect when over the button |
-|  shadowed |   Boolean to indicate when button is shadowed | 
-|  rounded |   Boolean to indicate when button has rounded edges |
-|  circular |   Boolean to indicate when button is rounded or eliptical |
-|  bordered |   Boolean to indicate when button has a border |
-|  loading |   Boolean to indicate when button is loading. Show a spinner when is true |
-|  disabled |   Boolean to indicate when button is disabled |
-|  width |   Integer number to set the button with |
+| a-flex |   display: flex |
+| a-flex-direction-row |   flex-direction: row |
+| a-flex-direction-column |   flex-direction: column |
+| a-flex-direction-row-reverse |   flex-direction: row-reverse |
+| a-flex-direction-column-reverse |   flex-direction: column-reverse |
+| a-flex-wrap |   flex-wrap: wrap |
+| a-flex-nowrap |   flex-wrap: nowrap |
+| a-flex-wrap-reverse |   flex-wrap: wrap-reverse |
+| a-flex-start |   justify-content: flex-start |
+| a-flex-end |   justify-content: flex-end center |
+| a-center |   justify-content: center |
+| a-space-between |   justify-content: space-between |
+| a-space-around |   justify-content: space-around |
+| a-space-evenly |   justify-content: space-evenly |
+| a-align-items-stretch |   align-items: stretch |
+| a-align-items-flex-start |   align-items: flex-start |
+| a-align-items-flex-end |   align-items: flex-end |
+| a-align-items-center |   align-items: center |
+| a-align-items-baseline |   align-items: baseline |
+| a-align-items-start |   align-items: start |
+| a-align-items |   align-items: end |
+| a-align-content-flex-start |   align-content: flex-start |
+| a-align-content-flex-end |   align-content: flex-end |
+| a-align-content-center |   align-content: center |
+| a-align-content-space-between |   align-content: space-between |
+| a-align-content-space-around |   align-content: space-around |
+| a-align-content-space-evely |   align-content: space-evenly |
+| a-order-flex-1 |   order: 1 |
+| a-order-flex-2 |   order: 2 |
+| a-order-flex-3 |   order: 3 |
+| a-order-flex-4 |   order: 4 |
+| a-order-flex-5 |   order: 5 |
+| a-order-flex-6 |   order: 6 |
+| a-flex-grow-1 |   flex-grow: 1 |
+| a-flex-grow-2 |   flex-grow: 2 |
+| a-flex-grow-3 |   flex-grow: 3 |
+| a-flex-grow-4 |   flex-grow: 4 |
+| a-flex-grow-5 |   flex-grow: 5 |
+| a-flex-grow-6 |   flex-grow: 6 |
+| a-align-self-auto |   align-self: auto |
+| a-align-self-flex-start |   align-self: flex-start |
+| a-align-self-flex-end |   align-self: flex-end |
+| a-align-self-center |   align-self: center |
+| a-align-self-baseline |   align-self: baseline |
+| a-align-self-stretch |   align-self: stretch |
 
 
 ## Author
