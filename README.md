@@ -1,5 +1,5 @@
 # A FlexBox
-## A package with flexbox classes ready to use. 
+## A light package with flexbox classes ready to use. 
 This package contains the definition of the most common classes used with flexbox.
 
 # Instalation
