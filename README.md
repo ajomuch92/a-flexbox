@@ -13,7 +13,7 @@ Import into your main file and use it:
 ```javascript
 // ES6
 ...
-import 'a-flexbox.css';
+import 'a-flexbox/a-flexbox.css';
 ...
 ```
 
